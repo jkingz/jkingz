@@ -9,4 +9,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 📊 GitHub Stats:
 <a href="https://github.com/jkingz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&langs_count=10&title_color=ef4444&text_color=22c55e&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/jkingz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jkingz&stroke=22c55e&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=22c55e&currStreakLabel=ef4444&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
