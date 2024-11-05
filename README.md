@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Jkingz👋
 
 <!--
 **jkingz/jkingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=jkingz&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jkingz&icon=6&color=8)](https://visitcount.itsvg.in)
