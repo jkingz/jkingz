@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jkingz&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jkingz&theme=blue-green&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
