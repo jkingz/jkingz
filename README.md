@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Nuxt](https://img.shields.io/badge/nuxt-%2335495e.svg?style=for-the-badge&logo=nuxt&logoColor=%234FC08D)
 ![Prismic](https://img.shields.io/badge/prismic-%2335495e.svg?style=for-the-badge&logo=prismic&logoColor=%234FC08D)
 -->
-<img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="320px" />
+<img align="right" alt="Jkingz" width="320px" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 ### Love  learning new things.
 - 🔭 Working on something fun
@@ -48,32 +48,27 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for new hobby
 - 💬 Can ask me anything 
 
-
 </br>
 </br>
 </br>
 
 # 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt-%2335495e.svg?style=for-the-badge&logo=nuxt&logoColor=%234FC08D)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &ensp;
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white) &ensp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &ensp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) &ensp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) &ensp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &ensp;
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white) &ensp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &ensp;
 
 # 📊 GitHub Stats:
-####
-<img align="right" alt="Jkingz" width="100px" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="120px" />
 
 <img alt="Jkingz" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />    
 
 
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jkingz&theme=github-dark)](https://git.io/streak-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jkingz&theme=github-dark)](https://git.io/streak-stats)&ensp; &ensp; &ensp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
