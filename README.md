@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jkingz&theme=github-dark)](https://git.io/streak-stats)&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jkingz&theme=github-dark)](https://git.io/streak-stats)&ensp; &ensp; &ensp; &ensp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
