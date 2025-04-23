@@ -1,4 +1,4 @@
-## ⚡ Hi there I'm Jkingz 👋
+## ⚡ 👑 Hi there I'm Jkingz 👋
 
 <!--
 **jkingz/jkingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,12 +51,10 @@ Here are some ideas to get you started:
 
 </br>
 </br>
-</br>
 
-### 🚀 Github Trophies 👑
 [![trophy](https://github-profile-trophy.vercel.app/?username=jkingz&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 💻 Tech Stack
+# 💻 Tech Stack 🚀 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&ensp;&ensp;&ensp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&ensp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&ensp;
@@ -65,8 +63,7 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&ensp;&ensp;&ensp;
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats 🚀
 <img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="120px" />
 
 <img alt="Jkingz" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />    
