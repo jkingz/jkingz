@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)&ensp;
 -->
 <!-- <img align="right" alt="Jkingz" width="320px" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> -->
+<img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="320px" />
 
 ### Love  learning new things.
 - 🔭 Working on something fun
@@ -64,9 +65,9 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats 🚀
-<img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="120px" />
+<!-- <img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="220px" /> -->
+<img alt="Jkingz" width="485px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />
 
-<img alt="Jkingz" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />    
+[![GitHub Streak](https://streak-stats.demolab.com?user=jkingz&theme=github-dark)](https://git.io/streak-stats)
 
 <!-- [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jkingz&theme=github-dark)](https://git.io/streak-stats)&ensp; &ensp; &ensp; &ensp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=jkingz&theme=github-dark)](https://git.io/streak-stats)
