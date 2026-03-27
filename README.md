@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats 🚀
 <!-- <img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="220px" /> -->
-<img alt="Jkingz" width="485px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />
+<img alt="Jkingz" width="385px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jkingz&theme=github-dark)](https://git.io/streak-stats)
 
