@@ -1,4 +1,9 @@
 ## ⚡ 👑 Hi there I'm King 👋
+<img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="220px" /> 
+
+<!-- <img alt="Jkingz" width="320px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />  -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jkingz&theme=github-dark)](https://git.io/streak-stats)
 
 <!--
 **jkingz/jkingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,11 +69,11 @@ Here are some ideas to get you started:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&ensp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&ensp;&ensp;&ensp;
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+—>
 
 ## 📊 GitHub Stats 🚀
-<!-- <img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="220px" /> -->
-<!-- <img alt="Jkingz" width="320px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" /> -->
-<!--
+<img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="220px" />
+<img alt="Jkingz" width="320px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" /> 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jkingz&theme=github-dark)](https://git.io/streak-stats)
-—>
+
 <!-- [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jkingz&theme=github-dark)](https://git.io/streak-stats)&ensp; &ensp; &ensp; &ensp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
