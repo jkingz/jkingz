@@ -1,4 +1,4 @@
-## ⚡ 👑 Hi there I'm Jkingz 👋
+## ⚡ 👑 Hi there I'm King 👋
 
 <!--
 **jkingz/jkingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)&ensp;
 -->
 <!-- <img align="right" alt="Jkingz" width="320px" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> -->
-<img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="320px" />
+<!-- <img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="320px" />
 
 ### Love  learning new things.
 - 🔭 Working on something fun
@@ -51,10 +51,11 @@ Here are some ideas to get you started:
 - 💬 Can ask me anything 
 
 </br>
-</br>
+</br> -->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=jkingz&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<!--
 # 💻 Tech Stack 🚀 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&ensp;&ensp;&ensp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&ensp;
@@ -66,8 +67,8 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats 🚀
 <!-- <img align="right" alt="Jkingz" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="220px" /> -->
-<img alt="Jkingz" width="320px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" />
-
+<!-- <img alt="Jkingz" width="320px" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkingz&theme=github_dark" /> -->
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=jkingz&theme=github-dark)](https://git.io/streak-stats)
-
+—>
 <!-- [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=jkingz&theme=github-dark)](https://git.io/streak-stats)&ensp; &ensp; &ensp; &ensp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkingz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
